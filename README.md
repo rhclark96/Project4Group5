@@ -18,7 +18,7 @@ This repository contains all the code files and our presentation slides.
 ## Subfolders
 - /Data Cleaning: Contains the .ipynb files and .csv files
 - /Data Frame: contains the .ipynbs and .png files used to create data frames and visualizations.
-- /Machine Learning Models: contains the
+- /Machine Learning Models: contains .ipynb files used to create linear regression model, Decision tree models
 - /SQlite: Contains .db file used for the data cleaning using Sqlite
 - /Resources:.csv file of data set.
 
