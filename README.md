@@ -22,6 +22,12 @@ This repository contains all the code files and our presentation slides.
 - /SQlite: Contains .db file used for the data cleaning using Sqlite
 - /Resources:.csv file of data set.
 
+## Tools and Technologies used:
+- Pandas: Python library for data manipulation and analysis.
+  
+
+
+
 ## Data Sources
 
 - Kaggle: https://www.kaggle.com/datasets/rabieelkharoua/parkinsons-disease-dataset-analysis
