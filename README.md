@@ -22,21 +22,21 @@ This repository contains all the code files and our presentation slides.
 
 
 ## Subfolders
-- /Data Cleaning: Contains the .ipynb files and .csv files
-- /Data Frame: contains the .ipynbs and .png files used to create data frames and visualizations.
-- /Machine Learning Models: contains .ipynb files used to create multiple different models, including logistic regression, decision tree, KNN, and the neural network in both the initial and optimized forms.
-- /Resources: original .csv file of data set from Kaggle.
-- /Screenshots: includes pictures of code, visualizations, etc. that are included in the presentation.
-- /SQlite: Contains the .db file used to retrieve data through SQLalchemy.
+- Data Cleaning: Contains the .ipynb files and .csv files
+- Data Frame: contains the .ipynbs and .png files used to create data frames and visualizations.
+- Machine Learning Models: contains .ipynb files used to create multiple different models, including logistic regression, decision tree, KNN, and the neural network in both the initial and optimized forms.
+- Resources: original .csv file of data set from Kaggle.
+- Screenshots: includes pictures of code, visualizations, etc. that are included in the presentation.
+- SQlite: Contains the .db file used to retrieve data through SQLalchemy.
 
 
 ## Tools and Technologies used:
-- /Pandas: utilized for DataFrame creation, data manipulation, and analysis.
-- /Scikit-Learn: utilized in data preprocessing to train machine learning model.
-- /SQLalchemy: utilized to retrieve data.
-- /Tensorflow: utilized to compile, train, and evaluate neural network models.
-- /Matplotlib: utilized to create visualizations of data.
-- /Seaborn: utilized to create complex visualizations of data. 
+- Pandas: utilized for DataFrame creation, data manipulation, and analysis.
+- Scikit-Learn: utilized in data preprocessing to train machine learning model.
+- SQLalchemy: utilized to retrieve data.
+- Tensorflow: utilized to compile, train, and evaluate neural network models.
+- Matplotlib: utilized to create visualizations of data.
+- Seaborn: utilized to create complex visualizations of data. 
 
   
 ## Data Sources
