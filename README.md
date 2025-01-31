@@ -9,12 +9,12 @@ A neural network model was compiled, trained, and analyzed using the comprehensi
 
 
 ## Team Members
-- Rowan Clark, Machine Learning Specialist
 - Chris Alzuires, Visualizations Specialist
 - Paige Andrews, Data & Parkinson's Specialist
+- Rowan Clark, Machine Learning Specialist
 - Shalini Pampati, Database & Visualization Specialist
+- Diya Sadekar, Data Specialist
 - Tugce Terizioglu, Project Manager
-- Diya Sadekar, Optimization Specialist
 
 
 ## Repository Contents
